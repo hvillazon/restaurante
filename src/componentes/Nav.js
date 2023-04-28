@@ -33,7 +33,7 @@ const Nav=()=>{
               <div className="container__cover">
                   <div className="container__info">
 
-                      <h2>COCINALO</h2>
+                      <h2>COCÍNALO</h2>
                       <p>Haz de la cocina una aventura con nuestras recetas deliciosas y faciles de preparar, comparte tus propias creaciones culinarias y haz que la hora de la cena sea una exxperiencia emocionante y memorable</p>
                       <input type="button" value="Ver recetas"></input>
                   </div>
